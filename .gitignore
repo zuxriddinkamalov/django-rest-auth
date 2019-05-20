@@ -1,0 +1,12 @@
+.idea
+.venv
+venv
+env
+.env
+myenv
+*.pyc
+config/settings_dev.py
+.vscode
+media
+.pytest_cache
+db.sqlite3
